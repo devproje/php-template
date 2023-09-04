@@ -1,0 +1,4 @@
+data/
+
+# MacOS File Cache
+.DS_Store
